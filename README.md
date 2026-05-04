@@ -12,3 +12,12 @@ SmartShopping/
 ├── package.json       # Project dependencies
 ├── package-lock.json  # Dependency lock file
 └── .gitignore         # Ignored files (node_modules, etc.)
+---
+
+## 🚀 Features
+- Add and manage shopping list items
+- Track expenses against a budget
+- Node.js + Express backend
+- Simple HTML frontend connected to backend
+- Clean project structure for academic submission
+
